@@ -30,7 +30,7 @@
 
   width: 20vw; 
   height: 280px; 
-  margin:  3vh auto; 
+  margin:  7vh auto; 
 }
 .sliderStyles{
   position: relative;
@@ -110,6 +110,10 @@ opacity: 0;
   visibility: visible;
   opacity: 1;
 
+}
+.dist{
+  color:#797a7e;
+  font-size: 15px;
 }
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

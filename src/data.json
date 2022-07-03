@@ -7,6 +7,8 @@
             "country":"Greece",
             
             "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
            
             "images":[
                 {
@@ -37,6 +39,8 @@
             "country":"Greece",
             
             "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
            
             "images":[
                 {
@@ -67,6 +71,8 @@
             "country":"Greece",
             
             "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
            
             "images":[
                 {
@@ -97,6 +103,8 @@
             "country":"Greece",
             
             "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
            
             "images":[
                 {
@@ -127,6 +135,8 @@
             "country":"Greece",
             
             "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
            
             "images":[
                 {
@@ -157,6 +167,8 @@
             "country":"Greece",
             
             "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
            
             "images":[
                 {
@@ -187,6 +199,8 @@
             "country":"Greece",
             
             "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
            
             "images":[
                 {
@@ -217,6 +231,8 @@
             "country":"Greece",
             
             "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
            
             "images":[
                 {
@@ -247,6 +263,8 @@
             "country":"Greece",
             
             "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
            
             "images":[
                 {
@@ -277,6 +295,616 @@
             "country":"Greece",
             
             "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
+           
+            "images":[
+                {
+                    "url":"http://localhost:3000/assets/1.jpeg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/f4529c7c-5864-4590-be9b-1907486749e3.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/46034bc4-6b98-4393-b8a6-b9d09735d7e0.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/9125c785-e2de-4439-885d-f60f8ed5d606.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/14865204-d0c5-4b8f-9f88-a45d6729cb34.jpg"
+                    
+                }
+            ]
+        },
+        {
+            "city":"Glyfada",
+            
+            "country":"Greece",
+            
+            "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
+           
+            "images":[
+                {
+                    "url":"http://localhost:3000/assets/1.jpeg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/f4529c7c-5864-4590-be9b-1907486749e3.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/46034bc4-6b98-4393-b8a6-b9d09735d7e0.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/9125c785-e2de-4439-885d-f60f8ed5d606.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/14865204-d0c5-4b8f-9f88-a45d6729cb34.jpg"
+                    
+                }
+            ]
+        },
+        {
+            "city":"Glyfada",
+            
+            "country":"Greece",
+            
+            "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
+           
+            "images":[
+                {
+                    "url":"http://localhost:3000/assets/1.jpeg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/f4529c7c-5864-4590-be9b-1907486749e3.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/46034bc4-6b98-4393-b8a6-b9d09735d7e0.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/9125c785-e2de-4439-885d-f60f8ed5d606.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/14865204-d0c5-4b8f-9f88-a45d6729cb34.jpg"
+                    
+                }
+            ]
+        },
+        {
+            "city":"Glyfada",
+            
+            "country":"Greece",
+            
+            "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
+           
+            "images":[
+                {
+                    "url":"http://localhost:3000/assets/1.jpeg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/f4529c7c-5864-4590-be9b-1907486749e3.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/46034bc4-6b98-4393-b8a6-b9d09735d7e0.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/9125c785-e2de-4439-885d-f60f8ed5d606.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/14865204-d0c5-4b8f-9f88-a45d6729cb34.jpg"
+                    
+                }
+            ]
+        },
+        {
+            "city":"Glyfada",
+            
+            "country":"Greece",
+            
+            "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
+           
+            "images":[
+                {
+                    "url":"http://localhost:3000/assets/1.jpeg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/f4529c7c-5864-4590-be9b-1907486749e3.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/46034bc4-6b98-4393-b8a6-b9d09735d7e0.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/9125c785-e2de-4439-885d-f60f8ed5d606.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/14865204-d0c5-4b8f-9f88-a45d6729cb34.jpg"
+                    
+                }
+            ]
+        },
+        {
+            "city":"Glyfada",
+            
+            "country":"Greece",
+            
+            "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
+           
+            "images":[
+                {
+                    "url":"http://localhost:3000/assets/1.jpeg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/f4529c7c-5864-4590-be9b-1907486749e3.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/46034bc4-6b98-4393-b8a6-b9d09735d7e0.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/9125c785-e2de-4439-885d-f60f8ed5d606.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/14865204-d0c5-4b8f-9f88-a45d6729cb34.jpg"
+                    
+                }
+            ]
+        },
+        {
+            "city":"Glyfada",
+            
+            "country":"Greece",
+            
+            "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
+           
+            "images":[
+                {
+                    "url":"http://localhost:3000/assets/1.jpeg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/f4529c7c-5864-4590-be9b-1907486749e3.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/46034bc4-6b98-4393-b8a6-b9d09735d7e0.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/9125c785-e2de-4439-885d-f60f8ed5d606.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/14865204-d0c5-4b8f-9f88-a45d6729cb34.jpg"
+                    
+                }
+            ]
+        },
+        {
+            "city":"Glyfada",
+            
+            "country":"Greece",
+            
+            "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
+           
+            "images":[
+                {
+                    "url":"http://localhost:3000/assets/1.jpeg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/f4529c7c-5864-4590-be9b-1907486749e3.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/46034bc4-6b98-4393-b8a6-b9d09735d7e0.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/9125c785-e2de-4439-885d-f60f8ed5d606.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/14865204-d0c5-4b8f-9f88-a45d6729cb34.jpg"
+                    
+                }
+            ]
+        },
+        {
+            "city":"Glyfada",
+            
+            "country":"Greece",
+            
+            "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
+           
+            "images":[
+                {
+                    "url":"http://localhost:3000/assets/1.jpeg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/f4529c7c-5864-4590-be9b-1907486749e3.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/46034bc4-6b98-4393-b8a6-b9d09735d7e0.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/9125c785-e2de-4439-885d-f60f8ed5d606.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/14865204-d0c5-4b8f-9f88-a45d6729cb34.jpg"
+                    
+                }
+            ]
+        },
+        {
+            "city":"Glyfada",
+            
+            "country":"Greece",
+            
+            "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
+           
+            "images":[
+                {
+                    "url":"http://localhost:3000/assets/1.jpeg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/f4529c7c-5864-4590-be9b-1907486749e3.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/46034bc4-6b98-4393-b8a6-b9d09735d7e0.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/9125c785-e2de-4439-885d-f60f8ed5d606.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/14865204-d0c5-4b8f-9f88-a45d6729cb34.jpg"
+                    
+                }
+            ]
+        },
+        {
+            "city":"Glyfada",
+            
+            "country":"Greece",
+            
+            "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
+           
+            "images":[
+                {
+                    "url":"http://localhost:3000/assets/1.jpeg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/f4529c7c-5864-4590-be9b-1907486749e3.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/46034bc4-6b98-4393-b8a6-b9d09735d7e0.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/9125c785-e2de-4439-885d-f60f8ed5d606.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/14865204-d0c5-4b8f-9f88-a45d6729cb34.jpg"
+                    
+                }
+            ]
+        },
+        {
+            "city":"Glyfada",
+            
+            "country":"Greece",
+            
+            "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
+           
+            "images":[
+                {
+                    "url":"http://localhost:3000/assets/1.jpeg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/f4529c7c-5864-4590-be9b-1907486749e3.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/46034bc4-6b98-4393-b8a6-b9d09735d7e0.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/9125c785-e2de-4439-885d-f60f8ed5d606.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/14865204-d0c5-4b8f-9f88-a45d6729cb34.jpg"
+                    
+                }
+            ]
+        },
+        {
+            "city":"Glyfada",
+            
+            "country":"Greece",
+            
+            "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
+           
+            "images":[
+                {
+                    "url":"http://localhost:3000/assets/1.jpeg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/f4529c7c-5864-4590-be9b-1907486749e3.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/46034bc4-6b98-4393-b8a6-b9d09735d7e0.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/9125c785-e2de-4439-885d-f60f8ed5d606.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/14865204-d0c5-4b8f-9f88-a45d6729cb34.jpg"
+                    
+                }
+            ]
+        },
+        {
+            "city":"Glyfada",
+            
+            "country":"Greece",
+            
+            "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
+           
+            "images":[
+                {
+                    "url":"http://localhost:3000/assets/1.jpeg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/f4529c7c-5864-4590-be9b-1907486749e3.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/46034bc4-6b98-4393-b8a6-b9d09735d7e0.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/9125c785-e2de-4439-885d-f60f8ed5d606.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/14865204-d0c5-4b8f-9f88-a45d6729cb34.jpg"
+                    
+                }
+            ]
+        },
+        {
+            "city":"Glyfada",
+            
+            "country":"Greece",
+            
+            "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
+           
+            "images":[
+                {
+                    "url":"http://localhost:3000/assets/1.jpeg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/f4529c7c-5864-4590-be9b-1907486749e3.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/46034bc4-6b98-4393-b8a6-b9d09735d7e0.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/9125c785-e2de-4439-885d-f60f8ed5d606.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/14865204-d0c5-4b8f-9f88-a45d6729cb34.jpg"
+                    
+                }
+            ]
+        },
+        {
+            "city":"Glyfada",
+            
+            "country":"Greece",
+            
+            "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
+           
+            "images":[
+                {
+                    "url":"http://localhost:3000/assets/1.jpeg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/f4529c7c-5864-4590-be9b-1907486749e3.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/46034bc4-6b98-4393-b8a6-b9d09735d7e0.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/9125c785-e2de-4439-885d-f60f8ed5d606.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/14865204-d0c5-4b8f-9f88-a45d6729cb34.jpg"
+                    
+                }
+            ]
+        },
+        {
+            "city":"Glyfada",
+            
+            "country":"Greece",
+            
+            "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
+           
+            "images":[
+                {
+                    "url":"http://localhost:3000/assets/1.jpeg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/f4529c7c-5864-4590-be9b-1907486749e3.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/46034bc4-6b98-4393-b8a6-b9d09735d7e0.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/9125c785-e2de-4439-885d-f60f8ed5d606.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/14865204-d0c5-4b8f-9f88-a45d6729cb34.jpg"
+                    
+                }
+            ]
+        },
+        {
+            "city":"Glyfada",
+            
+            "country":"Greece",
+            
+            "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
+           
+            "images":[
+                {
+                    "url":"http://localhost:3000/assets/1.jpeg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/f4529c7c-5864-4590-be9b-1907486749e3.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/46034bc4-6b98-4393-b8a6-b9d09735d7e0.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/9125c785-e2de-4439-885d-f60f8ed5d606.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/14865204-d0c5-4b8f-9f88-a45d6729cb34.jpg"
+                    
+                }
+            ]
+        },
+        {
+            "city":"Glyfada",
+            
+            "country":"Greece",
+            
+            "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
+           
+            "images":[
+                {
+                    "url":"http://localhost:3000/assets/1.jpeg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/f4529c7c-5864-4590-be9b-1907486749e3.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/46034bc4-6b98-4393-b8a6-b9d09735d7e0.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/9125c785-e2de-4439-885d-f60f8ed5d606.jpg"
+                    
+                },
+                {
+                    "url":"http://localhost:3000/assets/14865204-d0c5-4b8f-9f88-a45d6729cb34.jpg"
+                    
+                }
+            ]
+        },
+        {
+            "city":"Glyfada",
+            
+            "country":"Greece",
+            
+            "rating":"4.8 ★",
+
+            "distance_away":"1,996 kilometers away",
            
             "images":[
                 {
@@ -301,6 +929,7 @@
                 }
             ]
         }
+      
         
             ]
         }

@@ -23,11 +23,14 @@ function App() {
 
         {data.map(card => {
           return <>
+          
             <div className='containerStyles'><ImageSlider slides={card.images} />
               <div className='name-rating'>
                 <div>{card.city}, {card.country}</div>
                 <div>{card.rating}</div>
-              </div></div>
+              </div>
+              <div className='dist'>{card.distance_away}</div>
+            </div>
           </>
         })}
 
