@@ -5,7 +5,8 @@ import ImageSlider from './components/ImageSlider'
 
 function App() {
   const data = posts["data"];
-  const images=data[0]['images'];
+  // const images=data['images'];
+  // console.log(images);
 
 
   return (
@@ -17,11 +18,15 @@ function App() {
     //   <img  src={data[0]['images'][4]['url']} />
       
     // </div>
-    <div>
-    <div className='containerStyles'>
-      <ImageSlider slides={images} />
-    </div>
+    <>
+    <div className='container'>
+    
+      {data.map(card => {
+      return  <div className='containerStyles'><ImageSlider slides={card.images} /> </div>})}
+  
+   
   </div>
+  </>
   );
 }
 

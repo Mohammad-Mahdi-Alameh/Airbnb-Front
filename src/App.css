@@ -7,11 +7,17 @@
   pointer-events: none;
 }
 .containerStyles{
-  width: 500px;
-  height: 280px;
-  margin:  0 auto;
-}
 
+  width: 20vw; 
+  height: 280px; 
+  margin:  3vh auto; 
+}
+.container{
+  display:flex;
+  flex-wrap: wrap;
+  margin:0 5vw;
+
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
