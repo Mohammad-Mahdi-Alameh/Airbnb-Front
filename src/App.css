@@ -6,6 +6,20 @@
   height: 40vmin;
   pointer-events: none;
 }
+.heart{
+  display: flex;
+  justify-content: end;
+}
+.heart >img{
+  background: none;
+  border: none;
+  width:30px;
+  height:30px;
+  color: white;
+  margin-top: 7px;
+  margin-right: 10px;
+  cursor:pointer;  
+}
 .containerStyles{
 
   width: 20vw; 
@@ -56,7 +70,7 @@
   /* opacity: 50%; */
   visibility: hidden;
 opacity: 0;
-  transition: visibility 0s, opacity 0.3s linear;
+  transition: visibility 0s, opacity 0.25s linear;
   cursor: pointer;
 }
 .leftArrowStyles {
@@ -78,7 +92,7 @@ opacity: 0;
   z-index: 1;
   cursor: pointer;
   animation: fadeIn 5s;
-  transition: visibility 0s, opacity 0.3s linear;
+  transition: visibility 0s, opacity 0.25s linear;
   
 }
 
