@@ -8,7 +8,9 @@
 }
 .name-rating{
   display: flex;
+  margin-top:1.5vh;
   justify-content: space-between;
+  font-weight: 500;
 }
 .heart{
   display: flex;

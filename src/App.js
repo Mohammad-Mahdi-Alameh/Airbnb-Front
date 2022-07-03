@@ -22,9 +22,12 @@ function App() {
       <div className='container'>
 
         {data.map(card => {
-          return <> 
-            <div className='containerStyles'><ImageSlider slides={card.images} /> 
-              <div className='name-rating'>{card.city},{card.country}</div></div>
+          return <>
+            <div className='containerStyles'><ImageSlider slides={card.images} />
+              <div className='name-rating'>
+                <div>{card.city}, {card.country}</div>
+                <div>{card.rating}</div>
+              </div></div>
           </>
         })}
 
