@@ -7,6 +7,7 @@ function App() {
   const data = posts["data"];
   const images=data[0]['images'];
 
+
   return (
     // <div className="App">
     //   <img  src={data[0]['images'][0]['url']} />
@@ -16,7 +17,11 @@ function App() {
     //   <img  src={data[0]['images'][4]['url']} />
       
     // </div>
-    <><ImageSlider slides={slides} /></>
+    <div>
+    <div className='containerStyles'>
+      <ImageSlider slides={images} />
+    </div>
+  </div>
   );
 }
 
