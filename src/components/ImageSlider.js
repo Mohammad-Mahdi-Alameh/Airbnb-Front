@@ -11,10 +11,7 @@ const slideStyles = {
 
 
 
-const sliderStyles = {
-  position: "relative",
-  height: "100%",
-};
+
 
 
 
@@ -48,12 +45,12 @@ const [visible,setVisible]=useState(false);
   };
 
   return (
-    <div style={sliderStyles}  onMouseOver={() =>   setVisible(true)} onMouseLeave={() =>   setVisible(false)}>
+    <div className="sliderStyles" onMouseOver={() =>   setVisible(true)} onMouseLeave={() =>   setVisible(false)}>
       <div>
-        {visible && <button onClick={goToPrevious} className="leftArrowStyles">
+        {<button onClick={goToPrevious} className="leftArrowStyles">
           ❰
         </button>}
-        {visible &&<button onClick={goToNext} className="rightArrowStyles">
+        {<button onClick={goToNext} className="rightArrowStyles">
           ❱
         </button>}
         
