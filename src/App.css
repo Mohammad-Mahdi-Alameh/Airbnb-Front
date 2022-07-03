@@ -114,6 +114,8 @@ opacity: 0;
 .dist{
   color:#797a7e;
   font-size: 15px;
+  margin-top: 1px;
+  margin-bottom: 1px;
 }
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

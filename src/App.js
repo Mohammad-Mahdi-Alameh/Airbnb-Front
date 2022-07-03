@@ -30,6 +30,7 @@ function App() {
                 <div>{card.rating}</div>
               </div>
               <div className='dist'>{card.distance_away}</div>
+              <div className='dist'>{card.available_times}</div>
             </div>
           </>
         })}
