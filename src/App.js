@@ -16,17 +16,21 @@ function App() {
     //   <img  src={data[0]['images'][2]['url']} />
     //   <img  src={data[0]['images'][3]['url']} />
     //   <img  src={data[0]['images'][4]['url']} />
-      
+
     // </div>
     <>
-    <div className='container'>
-    
-      {data.map(card => {
-      return  <div className='containerStyles'><ImageSlider slides={card.images} /> </div>})}
-  
-   
-  </div>
-  </>
+      <div className='container'>
+
+        {data.map(card => {
+          return <> 
+            <div className='containerStyles'><ImageSlider slides={card.images} /> 
+              <div className='name-rating'>{card.city},{card.country}</div></div>
+          </>
+        })}
+
+
+      </div>
+    </>
   );
 }
 

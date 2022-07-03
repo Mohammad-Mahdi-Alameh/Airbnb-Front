@@ -57,7 +57,8 @@ const ImageSlider = ({ slides }) => {
             </div>
             <div style={slideStylesWidthBackground}>
                 <div className="heart">{visible && <img  onClick={() =>setVisible(!visible)} src={dislike}/>}</div>
-                <div className="heart">{!visible && <img  onClick={() =>setVisible(!visible)} src={like}/>}</div>
+                <div className="heart">{!visible && <img  onClick={() =>setVisible(!visible)} src={like}/>}
+                </div>
                 <div className="bottom">
                     <div className="dotsContainerStyles">
                         {slides.map((slide, slideIndex) => (
