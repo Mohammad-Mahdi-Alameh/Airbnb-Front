@@ -35,10 +35,7 @@ const sliderStyles = {
   height: "100%",
 };
 
-const dotsContainerStyles = {
-  display: "flex",
-  justifyContent: "center",
-};
+
 
 const dotStyle = {
   margin: "0 3px",
@@ -75,9 +72,9 @@ const ImageSlider = ({ slides }) => {
         <div onClick={goToNext} style={rightArrowStyles}>
           ❱
         </div>
+        
       </div>
-      <div style={slideStylesWidthBackground}></div>
-      <div style={dotsContainerStyles}>
+      <div style={slideStylesWidthBackground}><div className="bottom"><div className="dotsContainerStyles">
         {slides.map((slide, slideIndex) => (
           <div
             style={dotStyle}
@@ -87,7 +84,8 @@ const ImageSlider = ({ slides }) => {
             ●
           </div>
         ))}
-      </div>
+      </div></div> </div>
+     
     </div>
   );
 };
