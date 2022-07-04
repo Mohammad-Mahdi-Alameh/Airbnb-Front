@@ -3,6 +3,8 @@ import { useState } from "react";
 import logo from "../../src/Airbnb-logo.jpg"
 import magnifier from "../../src/magnifier.png"
 import global from "../../src/global.svg"
+import ham from "../../src/ham.png"
+import icon from "../../src/placeholder.png"
 
 const Navbar = () => {
 
@@ -24,6 +26,7 @@ const Navbar = () => {
         <div className="end">
             <button className="btn">Become a Host</button>
             <button className="btn"><img src={global}/></button>
+            <button className="last-btn"><img src={ham}/><img src={icon}/></button>
         </div>
         
         
