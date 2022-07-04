@@ -17,6 +17,7 @@ const Navbar = () => {
             <a>Any week </a>
             <p>|</p>
             <a className="last">Add guests</a>
+            <img src={magnifier}/>
         </button>
         
         
