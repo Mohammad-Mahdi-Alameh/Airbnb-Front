@@ -10,7 +10,11 @@ const Navbar = () => {
         
         <img src={logo}/>
 
-        
+        <button className="mid">
+            <a>Anywhere |</a>
+            <a>Any week |</a>
+            <a>Add week</a>
+        </button>
         
         
         
