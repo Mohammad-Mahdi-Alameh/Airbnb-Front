@@ -4,7 +4,7 @@ import logo from "../../src/Airbnb-logo.jpg"
 import magnifier from "../../src/magnifier.png"
 import global from "../../src/global.svg"
 import ham from "../../src/ham.png"
-import icon from "../../src/placeholder.png"
+import icon from "../../src/pp.png"
 
 const Navbar = () => {
 
@@ -12,7 +12,7 @@ const Navbar = () => {
 
     return(<><div className="header-container">
         
-        <img src={logo}/>
+        <div className="start"><img src={logo}/></div>
 
         <button className="mid">
             <a>Anywhere </a>
