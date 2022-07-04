@@ -91,6 +91,25 @@ color :#cecbcb;
   background-color: transparent;
   margin :0 1vw;
 }
+.last-btn{
+  border: none;
+  cursor: pointer;
+  display: flex;
+  padding :0 1vw;
+  align-items: center;
+  background-color: white;
+  border: 1px solid black;
+  border-color:#e8e5e5;
+  height:8vh;
+  border-radius:30px ;
+
+  
+}
+
+.last-btn>img{
+  width:30px;
+  height: 30px;
+}
 .btn:hover{
   background-color: #e5e8eb;
   border-radius: 20px;
@@ -105,6 +124,7 @@ color :#cecbcb;
   margin: 0 5vw;
 
 }
+
 
 .dotsContainerStyles {
 
