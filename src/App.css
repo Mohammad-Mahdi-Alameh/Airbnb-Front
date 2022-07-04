@@ -41,7 +41,13 @@
   height: 280px;
   margin: 12vh auto;
 }
-
+.header-container{
+  /* width:90%; */
+  height:10vh;
+  margin:3vh 7vw;
+  display: flex;
+  justify-content: space-between;
+}
 .sliderStyles {
   position: relative;
   height: 100%;
