@@ -54,6 +54,8 @@
 }
 .mid{
   background-color: white;
+  border: 1px solid black;
+  border-color:#e8e5e5;
   height:10vh;
   border-radius:30px ;
   padding :0 1vw;
@@ -78,6 +80,24 @@ color :#cecbcb;
   width:30px;
   height: 30px;
   margin-left: 0.5vw;
+}
+.end{
+  display: flex;
+}
+.btn{
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  background-color: transparent;
+  margin :0 1vw;
+}
+.btn:hover{
+  background-color: #e5e8eb;
+  border-radius: 20px;
+}
+.btn>img{
+  width:30px;
+  height: 30px;
 }
 .container {
   display: flex;
