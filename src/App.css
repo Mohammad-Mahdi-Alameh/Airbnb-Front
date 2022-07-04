@@ -230,33 +230,23 @@ color :#cecbcb;
   align-items: center;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
+/* Media Queries */
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@media only screen and (max-width: 1100px) {
+  .containerStyles {
+    width: 25vw;
   }
 
-  to {
-    transform: rotate(360deg);
+}
+@media only screen and (max-width: 1000px) {
+  .containerStyles {
+    width: 30vw;
   }
+
+}
+@media only screen and (max-width: 900px) {
+  .containerStyles {
+    width: 45vw;
+  }
+
 }
