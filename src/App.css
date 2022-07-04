@@ -6,56 +6,69 @@
   height: 40vmin;
   pointer-events: none;
 }
-.name-rating{
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.name-rating {
   display: flex;
-  margin-top:1.5vh;
+  margin-top: 1.5vh;
   justify-content: space-between;
   font-weight: 500;
 }
-.heart{
+
+.heart {
   display: flex;
   justify-content: end;
 }
-.heart >img{
+
+.heart>img {
   background: none;
   border: none;
-  width:30px;
-  height:30px;
+  width: 30px;
+  height: 30px;
   color: white;
   margin-top: 7px;
   margin-right: 10px;
-  cursor:pointer;  
+  cursor: pointer;
 }
-.containerStyles{
 
-  width: 20vw; 
-  height: 280px; 
-  margin:  7vh auto; 
+.containerStyles {
+
+  width: 20vw;
+  height: 280px;
+  margin: 12vh auto;
 }
-.sliderStyles{
+
+.sliderStyles {
   position: relative;
   height: 100%;
 }
-.container{
-  display:flex;
+
+.container {
+  display: flex;
   flex-wrap: wrap;
-  margin:0 5vw;
-  
+  margin: 0 5vw;
+
 }
+
 .dotsContainerStyles {
-  
+
   display: flex;
   /* flex-direction : column; */
   justify-content: center;
   /* margin-top:10vh; */
-  
+
 }
-.bottom{
+
+.bottom {
   display: flex;
-  height:83%;
-  justify-content:center;
-  align-items:end;
-  
+  height: 83%;
+  justify-content: center;
+  align-items: end;
+
 }
 
 .rightArrowStyles {
@@ -70,15 +83,16 @@
   border-style: none;
   height: 30px;
   width: 30px;
-  z-index:  1;
+  z-index: 1;
   /* display: none; */
   animation: fadeIn 5s;
   /* opacity: 50%; */
   visibility: hidden;
-opacity: 0;
+  opacity: 0;
   transition: visibility 0s, opacity 0.25s linear;
   cursor: pointer;
 }
+
 .leftArrowStyles {
   position: absolute;
   top: 50%;
@@ -99,24 +113,36 @@ opacity: 0;
   cursor: pointer;
   animation: fadeIn 5s;
   transition: visibility 0s, opacity 0.25s linear;
-  
+
 }
 
-.sliderStyles:hover .leftArrowStyles{
+.sliderStyles:hover .leftArrowStyles {
   visibility: visible;
   opacity: 1;
 }
-.sliderStyles:hover .rightArrowStyles{
+
+.sliderStyles:hover .rightArrowStyles {
   visibility: visible;
   opacity: 1;
 
 }
-.dist{
-  color:#797a7e;
+
+.dist {
+  color: #797a7e;
   font-size: 15px;
   margin-top: 1px;
   margin-bottom: 1px;
 }
+.price{
+  margin-top: 2px;
+  font-weight: 500;
+}
+.horizon{
+  margin-top: 7px;
+  display: flex;
+  align-items: center;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -142,6 +168,7 @@ opacity: 0;
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }

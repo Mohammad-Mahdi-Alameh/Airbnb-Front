@@ -1,7 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 import posts from './data.json';
-import ImageSlider from './components/ImageSlider'
+import ImageSlider from './components/ImageSlider';
+import Navbar from './components/Navbar';
 
 function App() {
   const data = posts["data"];
@@ -19,6 +20,7 @@ function App() {
 
     // </div>
     <>
+    <Navbar />
       <div className='container'>
 
         {data.map(card => {
@@ -31,6 +33,8 @@ function App() {
               </div>
               <div className='dist'>{card.distance_away}</div>
               <div className='dist'>{card.available_times}</div>
+              {/* <div className='horizon'><div className='price'>{card.price }&nbsp;</div> night</div> */}
+              <div className='horizon'><p style={{fontWeight:649.99}}>{card.price}</p>&nbsp;night</div>
             </div>
           </>
         })}
