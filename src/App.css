@@ -99,6 +99,7 @@ color :#cecbcb;
   cursor: pointer;
   font-weight: bold;
   background-color: transparent;
+  padding: 7px;
   margin :0 1vw;
 }
 .last-btn{
